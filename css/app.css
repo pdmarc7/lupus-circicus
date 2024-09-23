@@ -1,0 +1,51 @@
+
+@font-face{
+	font-family: futura-regular;
+	src: url("assets/fonts/FuturaBookfont.ttf");
+}
+
+@font-face{
+	font-family: futura-light;
+	src: url("assets/fonts/futuralightbt.ttf");
+}
+
+@font-face{
+	font-family: futura-heavy;
+	src: url("assets/fonts/FuturaHeavyfont.ttf");
+}
+
+
+@font-face{
+	font-family: futura-medium;
+	src: url("assets/fonts/futuramediumbt.ttf");	
+}
+
+
+@font-face{
+	font-family: futura-pk-regular;
+	src: url("assets/fonts/FuturaCyrillicBook.ttf");	
+}
+
+@font-face{
+	font-family: futura-pk-medium;
+	src: url("assets/fonts/FuturaCyrillicMedium.ttf");	
+}
+
+@font-face{
+	font-family: futura-pk-light;
+	src: url("assets/fonts/FuturaCyrillicLight.ttf");	
+}
+
+
+
+h1{
+	font-family: futura-pk-medium;
+}
+
+.nav-link{
+	font-family: futura-medium;
+}
+
+.navbar-brand{
+	font-family: futura-bold;
+}
