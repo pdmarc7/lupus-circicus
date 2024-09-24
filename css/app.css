@@ -42,10 +42,57 @@ h1{
 	font-family: futura-pk-medium;
 }
 
+h3, h5, h2, h4{
+	font-family: futura-pk-medium;
+}
+
+p{
+	font-family: futura-regular;
+}
+
+li{
+	font-family: futura-regular;
+}
+
 .nav-link{
 	font-family: futura-medium;
 }
 
 .navbar-brand{
 	font-family: futura-bold;
+}
+
+
+.article-link{
+	text-decoration: none;
+	color: inherit;
+}
+
+.article-link:hover{
+	text-decoration: none;
+	color: inherit;
+}
+
+.article-section-title{
+	font-family: futura-heavy;
+}
+
+.title-border{
+	border-top: 5px black solid;
+}
+
+.card-title{
+	font-family: futura-medium;
+}
+
+.card-subtitle{
+	font-family: futura-pk-regular;
+}
+
+.card-body{
+	font-family: futura-regular;
+}
+
+#technology-section{
+	margin-top: 80px;
 }
