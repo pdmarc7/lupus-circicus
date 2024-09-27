@@ -1,0 +1,18 @@
+[
+    {
+        "technology": [
+            {
+                "title": "NHS Drone Delivery Network: A Sky-High Gamble?",
+                "description": "Drones could revolutionize healthcare in the UK by speeding up deliveries and reducing environmental impact. But there are challenges like infrastructure costs and safety concerns.\n        ",
+                "top_image": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "date_published": "Sun. Sep 22nd, 2024"
+            },
+            {
+                "title": "Legacy Systems: A Ticking Time Bomb in the Supply Chain",
+                "description": "The recent incident involving Chinese state-sponsored spies infiltrating a global engineering firm's network through an unmanaged server serves as a stark reminder of the security risks posed by legacy systems.\n        ",
+                "top_image": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "date_published": "Sun. Sep 22nd, 2024"
+            }
+        ]
+    }
+]
