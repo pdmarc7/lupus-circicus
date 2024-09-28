@@ -17,7 +17,7 @@ $(function(){
             <div class="card w-100 shadow">
                 <img src="${articleObject.top_image}" class="card-img-top rounded-0" alt="..." style="object-fit: cover; height: 240px;">
                 <div class="card-body border-white">
-                    <h5 class="card-title mb-2">${articleObject.title}</h5>
+                    <a href="${articleObject.url}" class='title-link'><h5 class="card-title mb-2">${articleObject.title}</h5></a>
                     <h6 class="card-subtitle mb-2 text-muted">${articleObject.date_published}</h6>
                     <p class="card-text">${articleObject.description}</p>
                     <div class="d-flex justify-content-center">

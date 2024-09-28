@@ -2,57 +2,80 @@
     {
         "technology": [
             {
-                "title": "NHS Drone Delivery Network: A Sky-High Gamble?",
-                "url": "technology/nhs-drone-delivery-network-a-sky-high-gamble.html",
-                "description": "Drones could revolutionize healthcare in the UK by speeding up deliveries and reducing environmental impact. But there are challenges like infrastructure costs and safety concerns.\n        ",
-                "top_image": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "date_published": "Sun. Sep 22nd, 2024"
+                "title": "The Blurring Lines: AI, Humans, And The Future Of Dating",
+                "url": "technology/the-blurring-lines-ai-humans-and-the future-of-dating.html",
+                "description": "Human relationships are becoming more intricate in the digital age. AI offers a new form of companionship and support, but raises important ethical questions. As AI continues to advance, it's essential to consider the potential benefits and drawbacks of incorporating AI into our personal lives.",
+                "top_image": "/images/artificial-intelligence-3964530_1280.jpg",
+                "date_published": "Fri. Sep 27th, 2024",
+                "created_on": 1727395200.0
             },
             {
                 "title": "Is Government Legislation An Effective Tool For Policing Technology and Innovation ?",
                 "url": "technology/is-government-legislation-an-effective-tool-for-policing-technology-and-innovation.html",
                 "description": "The rapid pace of technological advancement has presented society with both unprecedented opportunities and significant challenges. Government legislation can be a valuable tool for addressing these challenges, but it is important to avoid excessive regulation that could stifle progress.\n        ",
                 "top_image": "/images/saul-bucio-P5YN73KrUAA-unsplash.jpg",
-                "date_published": "Thu. Sep 26th, 2024"
+                "date_published": "Thu. Sep 26th, 2024",
+                "created_on": 1727308800.0
             },
             {
                 "title": "A.I. Therapists, A Controversial Possibility Or Just an Insane Delirium?",
                 "url": "technology/ai-therapists- a-controversial-possibility-or-just-an-insane-delirum.html",
                 "description": "The advent of AI therapists raises intriguing possibilities and significant concerns. While AI can offer benefits like accessibility and consistency, it lacks true empathy and can be limited by programming. Ethical questions about privacy, security, and AI replacing human therapists need to be addressed.\n        ",
                 "top_image": "/images/robot-performing-ordinary-human-job.jpg",
-                "date_published": "Thu. Sep 26th, 2024"
+                "date_published": "Thu. Sep 26th, 2024",
+                "created_on": 1727308800.0
+            },
+            {
+                "title": "NHS Drone Delivery Network: A Sky-High Gamble?",
+                "url": "technology/nhs-drone-delivery-network-a-sky-high-gamble.html",
+                "description": "Drones could revolutionize healthcare in the UK by speeding up deliveries and reducing environmental impact. But there are challenges like infrastructure costs and safety concerns.\n        ",
+                "top_image": "/images/jason-mavrommatis-XYrjl3j7smo-unsplash.jpg",
+                "date_published": "Sun. Sep 22nd, 2024",
+                "created_on": 1726963200.0
             },
             {
                 "title": "Legacy Systems: A Ticking Time Bomb in the Supply Chain",
                 "url": "technology/legacy-systems-a-ticking-time-bomb-in-the-supply-chain.html",
                 "description": "The recent incident involving Chinese state-sponsored spies infiltrating a global engineering firm's network through an unmanaged server serves as a stark reminder of the security risks posed by legacy systems.\n        ",
-                "top_image": "https://images.unsplash.com/photo-1507582020474-9a35b7d455d9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "date_published": "Sun. Sep 22nd, 2024"
+                "top_image": "/images/lorenzo-herrera-p0j-mE6mGo4-unsplash.jpg",
+                "date_published": "Sun. Sep 22nd, 2024",
+                "created_on": 1726963200.0
             }
         ],
         "politics": [
             {
-                "title": "Age Limits in Politics: A Balancing Act?",
-                "url": "politics/age-limits-in-politics-a-balancing-act.html",
-                "description": "The optimal age for political leadership is a complex issue with no easy answers. Age alone is not a determining factor in political success, but it can be a factor in political decline. The debate over age limits in politics is likely to continue for many years to come.\n        ",
-                "top_image": "/images/history-in-hd-v_e3Hha4EBA-unsplash.jpg",
-                "date_published": "Thu. Sep 26th, 2024"
-            },
-            {
                 "title": "The Complex Terrain of Social Media Regulation and Political Bias",
                 "url": "politics/the-complex-terrain-of-social-media-regulation-and-political-bias.html",
                 "description": "The intersection of social media, politics, and content moderation is a complex issue. Social media platforms have become a battleground for political discourse, raising concerns about bias and the need for regulation. Regulating these platforms is challenging, but it is essential to ensure a healthy political environment.\n        ",
-                "top_image": "/images/hansjorg-keller-CQqyv5uldW4-unsplash.jpg",
-                "date_published": "Thu. Sep 26th, 2024"
+                "top_image": "/images/alexander-shatov-mr4JG4SYOF8-unsplash.jpg",
+                "date_published": "Fri. Sep 27th, 2024",
+                "created_on": 1727395200.0
+            },
+            {
+                "title": "Age Limits in Politics: A Balancing Act?",
+                "url": "politics/age-limits-in-politics-a-balancing-act.html",
+                "description": "The optimal age for political leadership is a complex issue with no easy answers. Age alone is not a determining factor in political success, but it can be a factor in political decline. The debate over age limits in politics is likely to continue for many years to come.\n        ",
+                "top_image": "/images/pikaso_texttoimage_young-politicians-and-old-politicians-in-hea9ted-de.jpg",
+                "date_published": "Thu. Sep 26th, 2024",
+                "created_on": 1727308800.0
             }
         ],
         "climate": [
+            {
+                "title": "The EV Transition: A Complex Puzzle with Unforeseen Consequences",
+                "url": "climate/the-ev-transition-a-complex-puzzle-with-unforeseen-consequences.html",
+                "description": "The EV revolution is gaining speed, but the disposal of old gas-powered vehicles poses a significant challenge. As millions of these vehicles reach their end of life, governments and industry must invest in expanding recycling infrastructure and developing more efficient methods for processing them. This will help mitigate the environmental impact of the transition to EVs.",
+                "top_image": "/images/connor-williams-m2TKgpU3cvc-unsplash.jpg",
+                "date_published": "Fri. Sep 27th, 2024",
+                "created_on": 1727395200.0
+            },
             {
                 "title": "Bitcoin Mining, A Double-Edged Sword Of Energy Efficiency",
                 "url": "climate/bitcoin-mining-a-double-edged-sword-of-energy-efficiency.html",
                 "description": "Bitcoin mining, while energy-intensive, can potentially drive energy efficiency gains. However, it also poses significant environmental risks. The future of Bitcoin will depend on balancing economic benefits with environmental protection.\n        ",
                 "top_image": "/images/Indoaugust74.jpg",
-                "date_published": "Thu. Sep 26th, 2024"
+                "date_published": "Thu. Sep 26th, 2024",
+                "created_on": 1727308800.0
             }
         ]
     }

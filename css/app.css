@@ -83,6 +83,16 @@ li{
 	color: inherit;
 }
 
+.title-link{
+	text-decoration: none;
+	color: inherit;
+}
+
+.title-link:hover{
+	text-decoration: none;
+	color: inherit;
+}
+
 .article-section-title{
 	font-family: futura-heavy;
 }
@@ -96,7 +106,7 @@ li{
 }
 
 .card-subtitle{
-	font-family: futura-pk-regular;
+	font-family: futura-regular;
 }
 
 .card-body{
