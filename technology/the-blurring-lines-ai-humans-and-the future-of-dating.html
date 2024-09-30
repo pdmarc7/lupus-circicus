@@ -91,6 +91,51 @@
             </div>
         </section>
 
+        <section id="comments" class="mt-4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <!--<h3 class="text-start">Comments</h3>-->
+                        <!--<p class="mt-0 text-secondary">Join the discussion</p>-->
+                        <!-- Add disqus commenting to the site -->
+                            <div id="disqus_thread"></div>
+                            <script>
+                                /**
+                                *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                                *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+                                /*
+                                var disqus_config = function () {
+                                this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                                this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                                };
+                                */
+                                (function() { // DON'T EDIT BELOW THIS LINE
+                                var d = document, s = d.createElement('script');
+                                s.src = 'https://wolfcircus-pages-dev.disqus.com/embed.js';
+                                s.setAttribute('data-timestamp', +new Date());
+                                (d.head || d.body).appendChild(s);
+                                })();
+                            </script>
+                            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="related-articles" class="mt-4">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h3 class="text-start">There's More You Might Find Interesting</h3>
+                        <p class="mt-0 text-secondary">A few curated articles you might like</p>
+                    </div>
+                </div>
+
+                <div class="row" id="recommended-articles"></div>
+
+            </div>
+        </section>
+
         <section>
             <div class="container">
                 <div class="row">
@@ -125,51 +170,11 @@
             </div>
         </section>
 
-        <section id="comments" class="mt-4">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h3 class="text-start">Comments</h3>
-                        <p class="mt-0 text-secondary">Join the discussion</p>
-                        <!-- Add disqus commenting to the site -->
-                            <div id="disqus_thread"></div>
-                            <script>
-                                /**
-                                *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-                                *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-                                /*
-                                var disqus_config = function () {
-                                this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-                                this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-                                };
-                                */
-                                (function() { // DON'T EDIT BELOW THIS LINE
-                                var d = document, s = d.createElement('script');
-                                s.src = 'https://wolfcircus-pages-dev.disqus.com/embed.js';
-                                s.setAttribute('data-timestamp', +new Date());
-                                (d.head || d.body).appendChild(s);
-                                })();
-                            </script>
-                            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section id="related-articles" class="mt-4">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h3 class="text-start">There's More You Might Find Interesting</h3>
-                        <p class="mt-0 text-secondary">A few curated articles you might like</p>
-                    </div>
-                </div>
-            </div>
-        </section>
 
         <section>
             <div class="container">
                 <div class="row">
-                    <div class="col-12">
+                    <div class="col-12 mb-3 mt-4">
                         <div class="d-flex justify-content-center py-1">
                                 <p class="text-center ms-2" style="font-size: 18px; color: grey; font-family: futura-medium">Lupus 🐺 Circicus 🎪 - &copy; <span id="currentYear"></span> 😌 </p>
                         </div>
@@ -193,5 +198,6 @@
         <script src="/js/bootstrap.bundle.min.js"></script>
         <script src="/js/jquery-3.6.1.min.js"></script>
         <script src="/js/all.min.js"></script>
+        <script src="/js/posts.js"></script>
     </body>
 </html>

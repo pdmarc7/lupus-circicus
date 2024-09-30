@@ -125,3 +125,21 @@ li{
 #logo-text{
 	font-family: overlock-bold;
 }
+
+#searchModalInput{
+	box-shadow: none;
+	border-radius: 0px;
+}
+
+#searchModalInput:focus{
+	box-shadow: none;
+	border-radius: 0px;
+}
+
+#searchModalButton{
+	border-radius: 0px;
+}
+
+#NavTogglerBtn{
+	border-radius: 0px;
+}
