@@ -1,6 +1,6 @@
 $(function(){
     $.getJSON('/site_index.json', function(data){
-        siteIndex = data[0]
+        const siteIndex = data[0]
 
         for (const topic of ['technology', 'politics', 'climate']){
             for (const index of siteIndex[topic].slice(0, 5)){

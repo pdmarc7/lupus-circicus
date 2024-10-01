@@ -1,11 +1,15 @@
 $(function(){
+    $.getJSON('/site_index.json', function(data){
+        navIndex = data[0]
+    });
+
     $('.categories-link').on('click', function(event){
         var category = $(this).text().toLowerCase()
 
         var categoryArticles = [];
         var hostname = location.origin;
 
-        for (const index of siteIndex[category]){
+        for (const index of navIndex[category]){
                 categoryArticles.push(`
                     <p class='mb-0'><a href="${hostname+'/'+index['url']}">${index['title']}</a></p>
                     <p class='mb-0'>${index['date_published']}</p>
