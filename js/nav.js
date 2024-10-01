@@ -1,6 +1,9 @@
 $(function(){
-    $.getJSON('/site_index.json', function(data){
+    var hostname = location.origin;
+
+    $.getJSON(`${hostname}/site_index.json`, function(data){
         navIndex = data[0]
+        console.log(navIndex)
     });
 
     $('.categories-link').on('click', function(event){
